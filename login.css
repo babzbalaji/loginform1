@@ -1,0 +1,27 @@
+.forms {
+  background-color: #e5e5e5;
+  border: 2px solid;
+  margin-top: 150px;
+  border-radius: 5px;
+}
+
+html , .page {
+  background-color: #003049;
+}
+
+.reg h1 {
+  color: #1d3557;
+}
+
+.reg {
+  margin-top: 20px;
+}
+
+#form1 {
+  padding: 30px;
+}
+
+.login {
+  margin-top: 0px;
+  margin-left: 20px;
+}
